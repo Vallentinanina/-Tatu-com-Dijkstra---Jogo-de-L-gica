@@ -1,6 +1,6 @@
 ## 🎮 Sobre o Jogo
 
-Um jogo iterativo que junta o algoritmo de Dijkstra com o famoso jogo hora do rush em uma versão fofa e diferenciada
+Um jogo iterativo que junta o algoritmo de Dijkstra com o famoso jogo hora do rush em uma versão fofa e diferenciada, tendo 3 niveis (facil, medio, medio/dificil) de posições dos tatus, toda vez que um tatu ultrapassa a linha de chegada, o tabuleiro é refeito, mudando seus vertices livres
 
 ## 🎯 Para jogar
 
@@ -11,7 +11,7 @@ Aqui estamos disponibilizando os códigos e o jogo também, para jogar, só baix
 
 1. **Objetivo**: Ultrapassar o tabuleiro usando unicamente o algoritmo
 2. **Controles**:
-   - Clique em um tatu que esteja com caminho livre (caso contrario ele não vai sair e você perdera 50 pontos)
+   - Clique em um tatu que esteja com caminho livre (caso contrario ele não vai sair e você perdera 25 pontos)
    - Clique a tecla SPACE para enviar o tatu pelo caminho
 3. **Regras**:
    - Não é possivel enviar um tatu preso
@@ -27,5 +27,34 @@ Aqui estamos disponibilizando os códigos e o jogo também, para jogar, só baix
 - **Linguagem**: [Python, pygame]
 - **Algoritmo**: Dijkstra implementado do zero
 - **Design**: Pixel art
+
+## 🧠 O Algoritmo de Dijkstra
+
+Este jogo implementa visualmente o famoso algoritmo:
+
+1. Inicializa distâncias como infinito
+2. Marca o nó inicial (tatu) com distância 0
+3. Explora vizinhos atualizando menores distâncias
+4. Repete até encontrar o destino (fim do tabuleiro)
+
+## 📸 Screenshots
+
+| Nível Fácil | Nível Médio | Nível Difícil |
+|-------------|-------------|---------------|
+| ![Nível 1](nivel1.png) | ![Nível 2](nivel2.png) | ![Nível 3](nivel3.png) |
+
+## 👤 Autoras
+
+**Luna**
+- GitHub: [@Luna-Osti]([(https://github.com/Luna-Osti)])
+- LinkedIn: [Luna Osti de França](https://www.linkedin.com/in/luna-osti-de-frança-23961b321/)
+**Vallentina**
+- GitHub: [@MariaCampanaP]([https://github.com/MariaCampanaP])
+- LinkedIn: [Maria Rita Campana Peixoto](https://www.linkedin.com/in/maria-rita-campana/)
+
+**Vallentina**
+- GitHub: [@Vallentinanina]([https://github.com/Vallentinanina])
+- LinkedIn: [Vallentina Rodrigues](https://www.linkedin.com/in/vallentina-rodrigues-costa-groetaers-sousa-435b85319/)
+
 
 
