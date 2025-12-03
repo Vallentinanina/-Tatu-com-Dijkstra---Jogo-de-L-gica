@@ -55,7 +55,7 @@ Este jogo implementa visualmente o famoso algoritmo:
 
 **Vallentina**
 - GitHub: [@Vallentinanina]([https://github.com/Vallentinanina])
-- LinkedIn: [Vallentina Rodrigues](https://www.linkedin.com/in/vallentina-rodrigues-costa-groetaers-sousa-435b85319/)
+- LinkedIn: [Vallentina Rodrigues Costa Groetaers Sousa](https://www.linkedin.com/in/vallentina-rodrigues-costa-groetaers-sousa-435b85319/)
 
 
 
